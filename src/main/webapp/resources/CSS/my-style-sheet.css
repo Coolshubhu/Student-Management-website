@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+h1{
+	
+	color: red;
+}
+
+
+.myfonts {
+	font-size: 20px;
+	font-family: Monaco;
+}
+
+.myButton{
+     color: white;
+     background-color: black;
+     border: 2px solid black ;	
+     font-size: 24px;
+     padding: 10px 10px 10 px 10 px; 
+     
+}
+body{
+	
+	background-image: url("/student-management2/URLToReachResourcesFolder/Images/12.jpg");
+}
